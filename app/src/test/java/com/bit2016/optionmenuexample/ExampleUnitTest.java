@@ -1,4 +1,4 @@
-package com.estsoft.optionmenuexample;
+package com.bit2016.optionmenuexample;
 
 import org.junit.Test;
 
